@@ -8,6 +8,7 @@
  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielduarte31&layout=compact&theme=tokyonight"/>
 ##
  ### Tecnologias que eu uso no meu dia
+ 
   <div>
 <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
 <img align="center" alt="html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
