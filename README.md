@@ -1,4 +1,4 @@
- ### Hi! Eu sou o Daniel Duarte✌️
+ ### Hi! I'm Daniel Duarte✌️
  ##
  👨‍💻Estudando Web Desing Front-End 
  
@@ -16,7 +16,7 @@
 <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 </div>
 
-##
+## Technologies i use in my daily life 
    
  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-duarte-421527280/)
  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_duarte_daniel_/)
