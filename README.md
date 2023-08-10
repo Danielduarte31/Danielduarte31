@@ -4,7 +4,7 @@
  
  👨‍💻Estudando Programação java 
  ##
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danield31&show_icons=true&theme=tokyonight)
+
  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmingcv&layout=compact&theme=tokyonight"/>
 ##
  ### Tecnologias que eu uso no meu dia
