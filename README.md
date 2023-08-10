@@ -9,7 +9,7 @@
  
 ##
 
- ## Technologies i use in my daily life
+ ##🛠 Technologies I use in my daily life
  
  <div>
    
