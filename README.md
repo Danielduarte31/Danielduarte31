@@ -4,7 +4,7 @@
  
  👨‍💻Estudando Programação java 
  ##
-
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Danielduarte31&show_icons=true&theme=tokyonight"/>
  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielduarte31&layout=compact&theme=tokyonight"/>
 ##
  ### Tecnologias que eu uso no meu dia
