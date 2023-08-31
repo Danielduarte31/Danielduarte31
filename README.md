@@ -3,6 +3,7 @@
  👨‍💻Estudante de programação
  
  👨‍💻Estudando Programação em java 
+ 
  👨‍💻Estudando Programação em python
  ##
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Danielduarte31&show_icons=true&theme=tokyonight"/>
