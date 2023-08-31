@@ -1,6 +1,6 @@
  ### Hi! I'm Daniel Duarte✌️
  ##
- 👨‍💻Estudando Web Desing Front-End 
+ 👨‍💻Estudante de programação
  
  👨‍💻Estudando Programação java 
  ##
