@@ -1,6 +1,6 @@
  ### Hi! I'm Daniel Duarte✌️
  ##
- 👨‍💻Estudante de programação
+ EM CONSTANTE ESTUDO
  
  👨‍💻Estudando Programação em java 
  
