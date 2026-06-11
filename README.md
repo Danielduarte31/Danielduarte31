@@ -2,7 +2,7 @@
  ##
  
  
- 👨‍💻Cursando Análise e desenvolvimento de sistemas
+ 👨‍💻 Desenvolvedor Full-stack | Cloud Computing | DevOps | Python | Linux | AWS 
  
  ##
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Danielduarte31&show_icons=true&theme=tokyonight"/>
